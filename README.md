@@ -1,0 +1,2 @@
+# WebPDetector.js
+Detect WebP
